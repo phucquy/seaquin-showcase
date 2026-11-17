@@ -21,7 +21,7 @@ Every coin is an island. Its size follows market cap, its colour follows the 24h
 |---|---|
 | ![BTC island with its price chart and profile](screenshots/coin-panel.jpg) | ![Heatmap of all coins grouped by sector](screenshots/heatmap.jpg) |
 
-![The same map at night, with lighthouses and lit windows](screenshots/map-night.jpg)
+![Ships carrying money between islands as live trades come in](screenshots/map-live.gif)
 
 ## How it is built
 
